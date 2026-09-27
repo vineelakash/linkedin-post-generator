@@ -1,0 +1,326 @@
+{
+  "project": "LinkedIn Founder Content Calendar",
+  "audience": "Independent Mortgage Brokers + Independent P&C Agencies (US/CA)",
+  "total_posts": 20,
+  "next_run": "2026-08-29T11:00:00-05:00",
+  "posts": [
+    {
+      "id": "post_01",
+      "day": 1,
+      "date": "2026-08-27",
+      "topic": "Most Brokerages Don't Have a Lead Problem",
+      "icp": "Both",
+      "dm_keyword": "LEAD",
+      "file": "posts/post_01_lead_problem.md",
+      "status": "published",
+      "visuals": {
+        "hero": "completed",
+        "infographic": "completed",
+        "cta": "completed"
+      }
+    },
+    {
+      "id": "post_02",
+      "day": 2,
+      "date": "2026-08-29",
+      "topic": "The Economics of Recovering 5 Abandoned Applications/Month",
+      "icp": "Mortgage",
+      "dm_keyword": "RECOVER",
+      "file": "posts/post_02_recovering_5_abandoned_applications.md",
+      "status": "published",
+      "visuals": {
+        "hero": "assets/mortgage_recovered_app_3.png",
+        "infographic": "assets/mortgage_recovered_app_2.png",
+        "cta": "assets/mortgage_recovered_app_1.png"
+      }
+    },
+    {
+      "id": "post_03",
+      "day": 3,
+      "date": "2026-08-30",
+      "topic": "Your CRM Might Be Your Biggest Untapped Lead Source",
+      "icp": "Both",
+      "dm_keyword": "DATABASE",
+      "file": "posts/post_03_crm_untapped_lead_source.md",
+      "status": "scheduled",
+      "scheduled_time": "2026-08-30T21:30:00+05:30",
+      "visuals": {
+        "hero": "assets/post_03_hero.png",
+        "infographic": "assets/post_03_infographic.png",
+        "cta": "assets/post_03_cta.png"
+      }
+    },
+    {
+      "id": "post_04",
+      "day": 4,
+      "date": "2026-08-31",
+      "topic": "Your Competitor Doesn't Need Better Marketing",
+      "icp": "Both",
+      "dm_keyword": "AFTERHOURS",
+      "file": "posts/post_04_competitor_answers_at_947_pm.md",
+      "status": "scheduled",
+      "scheduled_time": "2026-08-31T21:30:00+05:30",
+      "visuals": {
+        "hero": "assets/post_04_hero.png",
+        "infographic": "assets/post_04_infographic.png",
+        "cta": "assets/post_04_cta.png"
+      }
+    },
+    {
+      "id": "post_05",
+      "day": 5,
+      "date": "2026-09-01",
+      "topic": "Your Processor Shouldn't Be Chasing Documents",
+      "icp": "Mortgage",
+      "dm_keyword": "DOCS",
+      "file": "posts/post_05_processor_shouldnt_chase_documents.md",
+      "status": "scheduled",
+      "scheduled_time": "2026-09-01T21:30:00+05:30",
+      "visuals": {
+        "hero": "assets/post_05_hero.png",
+        "infographic": "assets/post_05_infographic.png",
+        "cta": "assets/post_05_cta.png"
+      }
+    },
+    {
+      "id": "post_06",
+      "day": 6,
+      "date": "2026-09-02",
+      "topic": "The Certificate Request Problem",
+      "icp": "Insurance",
+      "dm_keyword": "CERTS",
+      "file": "posts/post_06_certificate_request_problem.md",
+      "status": "scheduled",
+      "scheduled_time": "2026-09-02T21:30:00+05:30",
+      "visuals": {
+        "hero": "assets/post_06_hero.png",
+        "infographic": "assets/post_06_infographic.png",
+        "cta": "assets/post_06_cta.png"
+      }
+    },
+    {
+      "id": "post_07",
+      "day": 7,
+      "date": "2026-09-03",
+      "topic": "The Loan Isn't Lost. It's Stalled.",
+      "icp": "Mortgage",
+      "dm_keyword": "PIPELINE",
+      "file": "posts/post_07_loan_isnt_lost_its_stalled.md",
+      "status": "scheduled",
+      "scheduled_time": "2026-09-04T00:00:00+05:30",
+      "visuals": {
+        "hero": "assets/post_07_hero.png",
+        "infographic": "assets/post_07_infographic.png",
+        "cta": "assets/post_07_cta.png"
+      }
+    },
+    {
+      "id": "post_08",
+      "day": 8,
+      "date": "2026-09-04",
+      "topic": "Renewal Follow-Up Shouldn't Depend on Memory",
+      "icp": "Insurance",
+      "dm_keyword": "RENEWAL",
+      "file": "posts/post_08_renewal_followup_system.md",
+      "status": "scheduled",
+      "scheduled_time": "2026-09-04T21:30:00+05:30",
+      "visuals": {
+        "hero": "assets/post_08_hero.png",
+        "infographic": "assets/post_08_infographic.png",
+        "cta": "assets/post_08_cta.png"
+      }
+    },
+    {
+      "id": "post_09",
+      "day": 9,
+      "date": "2026-09-05",
+      "topic": "\"What's the Status of My Loan?\"",
+      "icp": "Mortgage",
+      "dm_keyword": "STATUS",
+      "file": "posts/post_09_whats_the_status_of_my_loan.md",
+      "status": "scheduled",
+      "scheduled_time": "2026-09-05T21:30:00+05:30",
+      "visuals": {
+        "hero": "assets/post_09_hero.png",
+        "infographic": "assets/post_09_infographic.png",
+        "cta": "assets/post_09_cta.png"
+      }
+    },
+    {
+      "id": "post_10",
+      "day": 10,
+      "date": "2026-09-06",
+      "topic": "Your Shared Inbox Is an Operations Queue",
+      "icp": "Insurance",
+      "dm_keyword": "INBOX",
+      "file": "posts/post_10_shared_inbox_operations_queue.md",
+      "status": "scheduled",
+      "scheduled_time": "2026-09-07T00:00:00+05:30",
+      "visuals": {
+        "hero": "assets/post_10_hero.png",
+        "infographic": "assets/post_10_infographic.png",
+        "cta": "assets/post_10_cta.png"
+      }
+    },
+    {
+      "id": "post_11",
+      "day": 11,
+      "date": "2026-09-07",
+      "topic": "Buying Leads Without Automating Follow-Up Makes No Sense",
+      "icp": "Both",
+      "dm_keyword": "CONVERT",
+      "file": "posts/post_11_buying_leads_without_followup.md",
+      "status": "scheduled",
+      "scheduled_time": "2026-09-08T00:00:00+05:30",
+      "visuals": {
+        "hero": "assets/post_11_hero.png",
+        "infographic": "assets/post_11_infographic.png",
+        "cta": "assets/post_11_cta.png"
+      }
+    },
+    {
+      "id": "post_12",
+      "day": 12,
+      "date": "2026-09-08",
+      "topic": "Don't Hire Around a Workflow You Could Fix",
+      "icp": "Insurance",
+      "dm_keyword": "SCALE",
+      "file": "posts/post_12_dont_hire_around_broken_workflow.md",
+      "status": "scheduled",
+      "scheduled_time": "2026-09-09T00:00:00+05:30",
+      "visuals": {
+        "hero": "assets/post_12_hero.png",
+        "infographic": "assets/post_12_infographic.png",
+        "cta": "assets/post_12_cta.png"
+      }
+    },
+    {
+      "id": "post_13",
+      "day": 13,
+      "date": "2026-09-09",
+      "topic": "Your Referral Network Needs a Follow-Up System",
+      "icp": "Mortgage",
+      "dm_keyword": "PARTNER",
+      "file": "posts/post_13_realtor_referral_followup_system.md",
+      "status": "scheduled",
+      "scheduled_time": "2026-09-10T00:00:00+05:30",
+      "visuals": {
+        "hero": "assets/post_13_hero.png",
+        "infographic": "assets/post_13_infographic.png",
+        "cta": "assets/post_13_cta.png"
+      }
+    },
+    {
+      "id": "post_14",
+      "day": 14,
+      "date": "2026-09-10",
+      "topic": "If Employees Copy Data Between Systems, That's an Automation Opportunity",
+      "icp": "Both",
+      "dm_keyword": "BRIDGE",
+      "file": "posts/post_14_copy_paste_repeat_data_entry.md",
+      "status": "scheduled",
+      "visuals": {
+        "hero": "assets/post_14_hero.png",
+        "infographic": "assets/post_14_infographic.png",
+        "cta": "assets/post_14_cta.png"
+      },
+      "scheduled_time": "2026-09-18T00:00:00+05:30"
+    },
+    {
+      "id": "post_15",
+      "day": 15,
+      "date": "2026-09-11",
+      "topic": "I Wouldn't Automate the Broker",
+      "icp": "Both",
+      "dm_keyword": "BOUNDARY",
+      "file": "posts/post_15_i_wouldnt_automate_the_broker.md",
+      "status": "scheduled",
+      "visuals": {
+        "hero": "assets/post_15_hero.png",
+        "infographic": "assets/post_15_infographic.png",
+        "cta": "assets/post_15_cta.png"
+      },
+      "scheduled_time": "2026-09-19T00:00:00+05:30"
+    },
+    {
+      "id": "post_16",
+      "day": 16,
+      "date": "2026-09-12",
+      "topic": "A Missed Call Is a Workflow Failure",
+      "icp": "Both",
+      "dm_keyword": "CALLS",
+      "file": "posts/post_16_missed_call_workflow_failure.md",
+      "status": "scheduled",
+      "visuals": {
+        "hero": "assets/post_16_hero.png",
+        "infographic": "assets/post_16_infographic.png",
+        "cta": "assets/post_16_cta.png"
+      },
+      "scheduled_time": "2026-09-20T00:00:00+05:30"
+    },
+    {
+      "id": "post_17",
+      "day": 17,
+      "date": "2026-09-13",
+      "topic": "Growth Exposes Broken Processes",
+      "icp": "Both",
+      "dm_keyword": "OPERATIONS",
+      "file": "posts/post_17_growth_exposes_broken_processes.md",
+      "status": "scheduled",
+      "visuals": {
+        "hero": "assets/post_17_hero.png",
+        "infographic": "assets/post_17_infographic.png",
+        "cta": "assets/post_17_cta.png"
+      },
+      "scheduled_time": "2026-09-22T00:00:00+05:30"
+    },
+    {
+      "id": "post_18",
+      "day": 18,
+      "date": "2026-09-14",
+      "topic": "Your Past Clients Are Still an Asset",
+      "icp": "Both",
+      "dm_keyword": "CLIENTS",
+      "file": "posts/post_18_past_clients_are_still_an_asset.md",
+      "status": "scheduled",
+      "visuals": {
+        "hero": "assets/post_18_hero.png",
+        "infographic": "assets/post_18_infographic.png",
+        "cta": "assets/post_18_cta.png"
+      },
+      "scheduled_time": "2026-09-23T01:00:00+05:30"
+    },
+    {
+      "id": "post_19",
+      "day": 19,
+      "date": "2026-09-15",
+      "topic": "Don't Buy AI. Buy an Outcome.",
+      "icp": "Both",
+      "dm_keyword": "OUTCOME",
+      "file": "posts/post_19_dont_buy_ai_buy_an_outcome.md",
+      "status": "scheduled",
+      "visuals": {
+        "hero": "assets/post_19_hero.png",
+        "infographic": "assets/post_19_infographic.png",
+        "cta": "assets/post_19_cta.png"
+      },
+      "scheduled_time": "2026-09-24T00:00:00+05:30"
+    },
+    {
+      "id": "post_20",
+      "day": 20,
+      "date": "2026-09-16",
+      "topic": "What an AI Operations Layer Actually Looks Like",
+      "icp": "Both",
+      "dm_keyword": "OPERATING SYSTEM",
+      "file": "posts/post_20_what_an_ai_operations_layer_looks_like.md",
+      "status": "scheduled",
+      "visuals": {
+        "hero": "assets/post_20_hero.png",
+        "infographic": "assets/post_20_infographic.png",
+        "cta": "assets/post_20_cta.png"
+      },
+      "scheduled_time": "2026-09-25T01:00:00+05:30"
+    }
+  ]
+}

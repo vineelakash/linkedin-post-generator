@@ -1,0 +1,60 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Environment and Secrets
+.env
+.env.local
+*.pem
+*.key
+*.token
+
+# Playwright & Browser Sessions
+.cache/
+test-results/
+playwright-report/
+blob-report/
+user_data/
+*DevToolsActivePort*
+
+# Logs & Debugging Screenshots
+logs/
+Logs/
+*.log
+*_timeout.png
+*_debug.png
+temp/
+tmp/
+
+# OS Specific
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo

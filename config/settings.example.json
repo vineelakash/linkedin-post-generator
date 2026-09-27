@@ -1,0 +1,48 @@
+{
+  "project_name": "LinkedIn Post Generator",
+  "version": "1.0.0",
+  "browser": {
+    "remote_debugging_port": 9222,
+    "host": "127.0.0.1",
+    "headless": false,
+    "default_timeout_ms": 30000
+  },
+  "profiles": {
+    "publishing": {
+      "name": "LinkedIn Publishing Profile",
+      "platform": "https://www.linkedin.com/feed/"
+    },
+    "generation": {
+      "name": "AI Generation Profile",
+      "claude_url": "https://claude.ai/new",
+      "chatgpt_url": "https://chatgpt.com/?model=auto"
+    }
+  },
+  "visual_design": {
+    "canvas_ratio": "1:1",
+    "theme": "Dark B2B SaaS",
+    "background_color": "#0B0F17",
+    "primary_accent": "#10B981",
+    "secondary_accent": "#06B6D4",
+    "typography": "sans-serif",
+    "required_frames": [
+      "hero",
+      "infographic",
+      "cta"
+    ]
+  },
+  "copywriting_rules": {
+    "tone": "Direct, conversational founder/operator voice",
+    "max_paragraph_sentences": 2,
+    "prohibited_symbols": ["$"],
+    "banned_buzzwords": [
+      "game-changer",
+      "tapestry",
+      "supercharge",
+      "in today's digital landscape",
+      "unlock",
+      "synergy",
+      "dive deep"
+    ]
+  }
+}
